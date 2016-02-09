@@ -22,6 +22,7 @@ public class oppgave3_12 {
 			else
 				System.out.println("The number " + number + " is not palindrone");
 		}
+		input.close();
 		
 	}
 
